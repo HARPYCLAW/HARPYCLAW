@@ -7,4 +7,4 @@
 
 ### About Me :thought_balloon:
 <p>Welcome to my profile!</p>
-<p>I'm [Harshit Vats](https://www.linkedin.com/in/harshitvats07/) ! a self-taught Developer & a junior pursuing my Bachelors in Computer Science & Engineering.</p>
+I'm [Harshit Vats](https://www.linkedin.com/in/harshitvats07/) ! a self-taught Developer & a junior pursuing my Bachelors in Computer Science & Engineering.
