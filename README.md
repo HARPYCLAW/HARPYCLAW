@@ -14,7 +14,7 @@ Welcome to my profile!<br>
 <br>
 :beginner: I am passionate about Open Source, Web Development, Artificial Intelligence, Virtual Reality & I also love to learn new things. <br />
 
-<img align="right" src="cat-dancing.gif" width="450" height="300" />
+<img align="right" src="12TPB.gif" width="450" height="300" />
 <br />
 
 **Talking about Personal Stuffs:** :raising_hand:
