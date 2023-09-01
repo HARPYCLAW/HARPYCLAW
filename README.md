@@ -1,7 +1,7 @@
-<img src="Harshit Vats.png" alt="Banner"/>
 
-### Hey there! :v:
-<br>
+![Hello, my name is Harshit Vats  Nic (1)](https://github.com/HARPYCLAW/HARPYCLAW/assets/70028314/9d1f3b64-213a-4c4d-8c60-57285bab8a18)
+
+### Hey there :v:
 <h5 align="center">
   <a href="https://www.linkedin.com/in/harshitvats07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn      Profile Link"/></a>
 </h5>
